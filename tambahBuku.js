@@ -28,7 +28,7 @@ btnTambah.addEventListener('click', function() {
       <td>${inputNama}</td>
       <td>${inputPengarang}</td>
       <td>${inputKlasifikasi}</td>
-      <td><i class="fa-solid fa-pencil"></i> &emsp; <i class="fa-solid fa-trash-can"></i></td>
+      <td><i class="fa-solid fa-pencil edit-btn"></i> &emsp; <i class="fa-solid fa-trash-can delete-btn"></i></td>
     `;
     
     // Tambahkan row baru ke dalam tabel
